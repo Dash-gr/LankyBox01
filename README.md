@@ -1,6 +1,9 @@
 # Hello there! 👋
 I'm CodeGuy92 (Also known as LankyBox01 in some other websites), i just love code stuff... nothing special.
 
+## About me
+I code using html, css, and i'm also learning javascript.
+
 ## Websites
 - <a href="https://scratch.mit.edu/users/LankyBox01/">Scratch</a>
 - <a href="https://glitch.com/@LankyBox01">Glitch</a>
