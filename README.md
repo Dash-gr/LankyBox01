@@ -18,3 +18,9 @@ If you have any questions, uhhh just ask me on <a href="https://github.com/CodeG
 As you can see, i also have an Internetometer Account! Please give me an internet lol
 
 <a href='http://internetometer.com/give/47926'><img src='http://internetometer.com/image/47926.png'/></a>
+
+## The Scratch Admin Panel
+
+![](https://u.cubeupload.com/LankyBox01/f2FxKb.jpg)
+
+Don't question me.
