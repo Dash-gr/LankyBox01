@@ -5,7 +5,7 @@ I'm ThatRandomGuy (Also known as LankyBox01 in some other websites), i just to l
 
 ## About me
 I code using html, css, and js, and nodejs. And i am also from Romania, pretty cool right?
-If you have any questions, uhhh just ask me on <a href="https://github.com/CodeGuy92/website/issues">my issues page.</a>
+If you have any questions, uhhh just ask me on <a href="https://github.com/LankyBox01/LankyBox01/issues">my issues page.</a>
 
 ## Websites
 - <a href="https://scratch.mit.edu/users/LankyBox01/">Scratch</a>
