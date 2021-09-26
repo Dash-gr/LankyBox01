@@ -8,7 +8,6 @@ I code using html, css, and js, and nodejs. And i am also from Romania, pretty c
 If you have any questions, uhhh just ask me on <a href="https://github.com/LankyBox01/LankyBox01/issues">my issues page.</a>
 
 ## Websites
-- <a href="https://scratch.mit.edu/users/LankyBox01/">Scratch</a>
 - <a href="http://internetometer.com/give/47926">Internetometer</a>
 - <a href="https://lankybox01.glitch.me/">My personal website</a>
 
